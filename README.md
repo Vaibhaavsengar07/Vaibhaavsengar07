@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 - 💻 Building **scalable web applications & REST APIs**
-- 🧠 Exploring **AI & Deep Learning (Vision Transformer)**
 - 🚀 Developed **Internship Management System & DFU Detection**
 - ⚡ Strong in **Java, DSA & Full-Stack Development**
 - 🎯 Focused on solving **real-world problems through tech**

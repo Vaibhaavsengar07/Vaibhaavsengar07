@@ -1,4 +1,4 @@
-]<!-- Typing Animation -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Vaibhav+Sengar;Full-Stack+Developer+🚀;AI+%7C+Vision+Transformer+Enthusiast;Building+Real-World+Solutions+💡" />
 </p>

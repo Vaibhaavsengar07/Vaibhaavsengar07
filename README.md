@@ -61,7 +61,7 @@
 ## 🌐 Connect With Me
 - 📧 Email: vaibhavsengar74@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/vaibhav-sengar074  
-- 🌍 Portfolio: https://github.com/Vaibhaavsengar07/portfolio
+- 🌍 Portfolio: https://vaibhaavsengar07.github.io/portfolio/
 
 ---
 
